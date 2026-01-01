@@ -12,10 +12,10 @@
 	icon_state = "borderfloor_shifted"
 
 /obj/effect/floor_decal/borderfloorblack/shifted
-	icon_state = "borderfloor_shifted"
+	icon_state = "borderfloor_black_shifted"
 
 /obj/effect/floor_decal/borderfloorwhite/shifted
-	icon_state = "borderfloor_shifted"
+	icon_state = "borderfloor_white_shifted"
 
 /obj/effect/floor_decal/corner/beige/border/shifted
 	icon_state = "bordercolor_shifted"
